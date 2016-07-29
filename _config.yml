@@ -1,0 +1,14 @@
+layout_spectrum: 0.4449444317724556
+typography_spectrum: 0.25008397828787565
+color:
+  brandStrength: 0.9979877250734717
+  lightness: 0.7534915066789836
+  saturation: 0.5010039103217423
+  rhythmicContrast: 0.08984032017178833
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: aroma touch
