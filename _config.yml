@@ -1,4 +1,3 @@
-layout_spectrum: 0.4449444317724556
 typography_spectrum: 0.25008397828787565
 color:
   brandStrength: 0.9979877250734717
@@ -11,5 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.4449444317724556
 name: aroma touch
 title: the power of touch
+description: from the heart through the hands
